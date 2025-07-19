@@ -1,2 +1,10 @@
 
-unclecode/crawl4ai:all-amd64
+
+
+airbyte/db:dev-0f4d7055e3
+docksal/web:latest
+akamai/sandbox:latest
+kasmweb/api:develop-rolling
+nginx:stable-alpine3.21
+airbyte/worker:dev-0f4d7055e3
+semitechnologies/weaviate:1.31.6-c670e67
